@@ -7,7 +7,7 @@
 > ### 🏰 ¡Únete a la Comunidad Oficial de DrakesCraft!
 > 
 > * 🎮 **IP del Servidor**: `play.drakescraft.net` *(Java 1.21.11 & Bedrock)*
-> * 💬 **Discord Oficial**: [discord.gg/drakescraft](https://discord.gg/rR7FbfCt9Y)
+> * 💬 **Discord Oficial**: [discord.gg/drakescraft](https://discord.gg/rv3vtXZTk7)
 > * 🌐 **Web & Guía**: [drakescraft.net](https://drakescraft.net) — 🛒 **Tienda**: [tienda.drakescraft.net](https://tienda.drakescraft.net)
 > 
 > *¡Juega con este addon y más de 80 expansiones optimizadas en vivo en nuestra network de supervivencia técnica!*
@@ -90,6 +90,6 @@ Licencia **GPL-3.0-only**.
 - **Port & Maintenance**: DrakesCraft Labs team (Compatibility for Paper / Purpur 1.21.11).
 - **License**: GPL-3.0 / MIT.
 - **Source Code**: [GitHub Repository](https://github.com/DrakesCraft-Labs/SlimefunAdvancements)
-- **Support & Issues**: [GitHub Issues](https://github.com/DrakesCraft-Labs/SlimefunAdvancements/issues) | [Discord](https://discord.gg/rR7FbfCt9Y)
+- **Support & Issues**: [GitHub Issues](https://github.com/DrakesCraft-Labs/SlimefunAdvancements/issues) | [Discord](https://discord.gg/rv3vtXZTk7)
 
 *This project is an open-source derivative work maintained by DrakesCraft Labs under the terms of its original license. All original assets and concepts belong to their respective creators.*
