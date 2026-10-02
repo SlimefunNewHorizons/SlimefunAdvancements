@@ -20,7 +20,7 @@
     <repositories>
         <repository>
             <id>drakescraft-labs-maven</id>
-            <url>https://drakescraft-labs.github.io/maven-repo/</url>
+            <url>https://maven.drakescraft.cl/</url>
         </repository>
 
         <repository>
