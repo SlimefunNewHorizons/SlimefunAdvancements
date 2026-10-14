@@ -1,3 +1,5 @@
+> **ARCHIVADO (2026-10-14).** Este repo es el gemelo escrito para el ABI Drake y ya no se mantiene. El mantenido es [SlimefunAdvancements-Igdrassil](https://github.com/SlimefunNewHorizons/SlimefunAdvancements-Igdrassil). Nada se perdio: el historial completo y el tag `archivado-20261014` siguen aqui.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/SlimefunNewHorizons/SlimefunAdvancements/main/banner.svg" width="100%" alt="SLIMEFUNADVANCEMENTS Animated Banner" />
 </p>
