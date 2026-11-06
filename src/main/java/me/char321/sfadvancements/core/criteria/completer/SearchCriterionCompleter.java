@@ -2,8 +2,8 @@ package me.char321.sfadvancements.core.criteria.completer;
 
 import com.balugaq.jeg.api.patches.JEGGuideEntry;
 import com.balugaq.jeg.api.patches.JEGGuideHistory;
-import com.github.drakescraft_labs.slimefun4.api.player.PlayerProfile;
-import com.github.drakescraft_labs.slimefun4.core.guide.GuideHistory;
+import io.github.thebusybiscuit.slimefun4.api.player.PlayerProfile;
+import io.github.thebusybiscuit.slimefun4.core.guide.GuideHistory;
 import me.char321.sfadvancements.SFAdvancements;
 import me.char321.sfadvancements.api.criteria.Criterion;
 import me.char321.sfadvancements.api.criteria.SearchCriterion;
@@ -58,7 +58,7 @@ public class SearchCriterionCompleter implements CriterionCompleter {
         try {
             resolvedQueue = GuideHistory.class.getDeclaredField("queue");
             resolvedQueue.setAccessible(true);
-            resolvedGetter = Class.forName("com.github.drakescraft_labs.slimefun4.core.guide.GuideEntry").getDeclaredMethod("getIndexedObject");
+            resolvedGetter = Class.forName("io.github.thebusybiscuit.slimefun4.core.guide.GuideEntry").getDeclaredMethod("getIndexedObject");
             resolvedGetter.setAccessible(true);
         } catch (ReflectiveOperationException e) {
             e.printStackTrace();
@@ -73,7 +73,7 @@ public class SearchCriterionCompleter implements CriterionCompleter {
 
         Bukkit.getScheduler().runTaskTimer(SFAdvancements.instance(), () -> {
             // Reposo: sin nadie conectado no hay guia que vigilar.
-            if (Bukkit.getPlayerCount() == 0) {
+            if (Bukkit.getOnlinePlayers().size() == 0) {
                 return;
             }
 
