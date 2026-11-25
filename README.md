@@ -1,3 +1,11 @@
+<!-- credits:start -->
+> **Credits & license.** Port and maintenance by [JackStar6677-1](https://github.com/JackStar6677-1) and [DrakesCraft Labs](https://github.com/SlimefunNewHorizons). Original authors (from plugin.yml; upstream verification pending): char321. Upstream license: **GNU General Public License v3.0** (see [LICENSE](LICENSE)). Details: [docs/UPSTREAM_ATTRIBUTION.md](docs/UPSTREAM_ATTRIBUTION.md) · Policy: [Rights & Attribution](https://github.com/SlimefunNewHorizons/.github/blob/main/RIGHTS_AND_ATTRIBUTION.md). Independent community project, not affiliated with or endorsed by the original authors or the official Slimefun team.
+>
+> **Créditos y licencia.** Port y mantenimiento por [JackStar6677-1](https://github.com/JackStar6677-1) y [DrakesCraft Labs](https://github.com/SlimefunNewHorizons). Autores originales (segun plugin.yml; verificacion del upstream pendiente): char321. Licencia: **GNU General Public License v3.0**. Detalle en [docs/UPSTREAM_ATTRIBUTION.md](docs/UPSTREAM_ATTRIBUTION.md).
+<!-- credits:end -->
+
+> **Branches / Ramas.** `main`: Paper/Purpur 1.21.11 (Java 21). `port-26x`: Paper/Purpur 26.x (production: Purpur 26.2, Java 25). If another section of this README says otherwise, this note prevails. / Si otra seccion de este README dice otra cosa, prevalece esta nota.
+
 > **ARCHIVADO (2026-10-14).** Este repo es el gemelo escrito para el ABI Drake y ya no se mantiene. El mantenido es [SlimefunAdvancements-Igdrassil](https://github.com/SlimefunNewHorizons/SlimefunAdvancements-Igdrassil). Nada se perdio: el historial completo y el tag `archivado-20261014` siguen aqui.
 
 <p align="center">
